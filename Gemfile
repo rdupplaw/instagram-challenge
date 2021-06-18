@@ -46,6 +46,7 @@ group :development do
   gem 'spring'
   gem "rubocop", "~> 1.17"
   gem "rubocop-rails", "~> 2.10"
+  gem "rubocop-rspec", "~> 2.4"
 end
 
 group :test do
